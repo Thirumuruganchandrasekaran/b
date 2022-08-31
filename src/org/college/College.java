@@ -9,6 +9,7 @@ public void collegeCode(){
 }
 public void collegeRank(){
 	System.out.println("collegeRank");
+	System.out.println("****");
 }
 public static void main(String[] args) {
 	College annai = new College();
